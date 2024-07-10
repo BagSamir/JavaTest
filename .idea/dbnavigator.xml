@@ -36,7 +36,10 @@
     <last-used-providers />
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
-    <open-files />
+    <open-files>
+      <object connection-id="441cf58f-508f-4d86-8d23-f7a796b17c04" object-ref="consoles/Connection" />
+      <object connection-id="441cf58f-508f-4d86-8d23-f7a796b17c04" object-ref="schemas/mydbtest/tables/users" />
+    </open-files>
   </component>
   <component name="DBNavigator.Project.DatabaseSessionManager">
     <connection id="dfdfe34c-3e7c-457b-949c-8217a208bc62" />
@@ -55,9 +58,6 @@
   </component>
   <component name="DBNavigator.Project.ExecutionManager">
     <retain-sticky-names value="false" />
-  </component>
-  <component name="DBNavigator.Project.FileConnectionMappingManager">
-    <mapping file-url="file://$PROJECT_DIR$/src/test/resources/test.sql" connection-id="441cf58f-508f-4d86-8d23-f7a796b17c04" session-id="MAIN" current-schema="mydbtest" />
   </component>
   <component name="DBNavigator.Project.ObjectQuickFilterManager">
     <last-used-operator value="EQUAL" />
